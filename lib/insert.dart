@@ -30,7 +30,7 @@ class _InsState extends State<Ins> {
             return Center(
               child: SpinKitCircle(
                 color: Colors.orange,
-                size: 80,
+                size: 80
               ),
             );
           }
